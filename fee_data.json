@@ -1,0 +1,35 @@
+{
+  "engineering_fees": {
+    "kcet_government_quota": {
+      "label": "KCET / Government Quota",
+      "annual_range": "approximately ₹95,000–₹1,26,000 per year",
+      "breakdown": "tuition approximately ₹84,596 + university fees ₹10,610 + other / skill lab fees",
+      "four_year_total": "approximately ₹3.86 lakh–₹5.0 lakh"
+    },
+    "krlmpca_minority_comedk_quota": {
+      "label": "KRLMPCA / Minority / COMEDK Quota",
+      "annual_range": "approximately ₹2,25,000+ per year",
+      "breakdown": "tuition approximately ₹1,86,111 + university and other fees"
+    },
+    "management_quota": {
+      "label": "Management Quota",
+      "annual_range": "tuition approximately ₹2,50,000 per year",
+      "four_year_total": "approximately ₹10.0 lakh in tuition"
+    }
+  },
+  "additional_annual_fees": {
+    "nominal_other_fees": "approximately ₹20,000 per year (internet, maintenance, medical counselling, sports, library and student insurance)",
+    "skill_lab_expenses": "approximately ₹10,000 per year (as per university guidelines)"
+  },
+  "hostel_fees": {
+    "double_common_bath": "₹40,000 total per year (rent ₹30,000 + refundable deposit ₹10,000)",
+    "double_attached_bath": "₹60,000 total per year (rent ₹50,000 + refundable deposit ₹10,000)"
+  },
+  "transport_fees": {
+    "annual_range": "approximately ₹22,100–₹31,100 per year, depending on the pickup route",
+    "route_examples": "Mangaluru, Surathkal, Moodbidri and B.C. Road (the user-provided text ended partway through this example list)",
+    "note": "The detailed route-wise transport fee breakdown was not fully provided."
+  },
+  "scholarships_status": "Scholarship details have not yet been provided.",
+  "source_note": "All amounts are approximate and were supplied by the user. Some cited fee documents relate to AY 2024–2025 and third-party fee summaries; amounts may have changed. This is not a confirmed current-year official fee quotation. Students must verify the latest quota-wise fee matrix and charges with Canara Engineering College before payment. Four-year totals are approximate and may exclude additional annual charges, deposits, or changes in fees."
+}

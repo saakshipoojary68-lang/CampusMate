@@ -1,0 +1,25 @@
+{
+  "title": "Academic Calendar 2025-26",
+  "odd_semester": {
+    "semester": "V/VII Semester B.E.",
+    "pre_semester_preparations": "July 29 – August 4, 2025",
+    "pre_semester_activities": [
+      "Committee meetings",
+      "Course plan submission",
+      "Registration"
+    ],
+    "commencement_of_classes": "August 4, 2025",
+    "last_working_day": "December 4, 2025",
+    "examinations": "December 8, 2025 – January 10, 2026",
+    "next_semester_commencement": "January 12, 2026",
+    "next_semester": "VI/VIII Semester"
+  },
+  "even_semester": {
+    "year": "2026",
+    "commencement_of_classes": "February 24, 2026",
+    "last_working_day": "June 15, 2026",
+    "examinations": "June 16 – July 20, 2026",
+    "summer_semester_commencement": "July 22, 2026"
+  },
+  "source_note": "Dates were supplied by the user from the Canara Engineering College academic calendar information. The odd-semester calendar is identified as V/VII Semester B.E. 2025–26. The even-semester information was supplied as the 2026 calendar. Confirm dates and any revisions with the college's latest official academic calendar."
+}

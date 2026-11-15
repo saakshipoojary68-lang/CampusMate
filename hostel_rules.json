@@ -1,0 +1,82 @@
+{
+  "source": "Canara Engineering College – Boys and Girls Hostels: Roles and Responsibilities of Hosteller",
+  "document_date": "12.08.2016",
+  "note": "These rules are transcribed from the hostel rule book supplied by the user. The document is dated 12.08.2016; confirm with the college/warden whether any rules have since changed.",
+  "sections": [
+    {
+      "title": "Attendance and Outpass",
+      "rules": [
+        "Be within the college premises by 7:30 PM.",
+        "Be within the hostel premises before 9:30 PM for attendance, unless you are on an outpass.",
+        "Obtain an outpass from the Hostel Warden before going on holidays or vacations, well in advance.",
+        "Sign the movement register near the hostel entrance gate before leaving on an outpass or with permission.",
+        "Show the outpass or permission pass to security at the main gate while leaving the campus, and submit it to the Warden or Security on return.",
+        "While leaving on vacation, submit the outpass to Security at the main gate.",
+        "Wear the college ID while going out.",
+        "For a day's visit or outing, obtain the Warden's permission by applying in writing at least 2 days in advance."
+      ]
+    },
+    {
+      "title": "Hostel Cleanliness and Hygiene",
+      "rules": [
+        "Room occupants are liable for damage to hostel property in their respective rooms.",
+        "Do not move furniture from its original position.",
+        "Do not scribble, draw, or paste stickers on hostel walls, furniture, wardrobes, or other hostel premises.",
+        "Keep rooms and common areas clean and available for inspection when required.",
+        "Residents of a floor are liable for damage to hostel property in that floor's common areas.",
+        "Charges for clearing bathroom blockages may be assigned to the concerned occupants.",
+        "Deposit dust and trash in the provided dustbins; do not litter inside or outside the hostel."
+      ]
+    },
+    {
+      "title": "Etiquette, Discipline and Safety",
+      "rules": [
+        "Maintain discipline and obey hostel and college rules and regulations.",
+        "Behave politely with room-mates and other hostel residents.",
+        "Ragging is prohibited. Students found guilty may face suspension and legal penalties under college and government norms.",
+        "Keep valuables locked in the cupboards provided and take responsibility for personal belongings.",
+        "Outsiders and day scholars are not permitted to be entertained in the hostel premises.",
+        "Parents may visit the hostel with permission from the Warden.",
+        "If a room key is lost, submit a written request to the Hostel Warden to arrange opening the lock.",
+        "Do not try to break open a lock without the Warden's permission; damage caused may be charged to the concerned occupant.",
+        "The document states that the college management may refuse or withdraw hostel facilities, shift residents to alternate accommodation, or take disciplinary action for valid reasons."
+      ]
+    },
+    {
+      "title": "Other Guidelines",
+      "rules": [
+        "Use electricity and water carefully; switch off lights and close water taps when not in use.",
+        "Damaged bulbs or tube lights caused by hostellers may be replaced at the occupants' cost.",
+        "Use the Pay & Eat facility at either of the messes available on the college campus.",
+        "Manage time well and avoid activities that interfere with classes or study time.",
+        "Inform the Warden about medical emergencies for timely action.",
+        "Hostellers may use the medical insurance facility provided by the college, as stated in the document.",
+        "Students may enrol for hostel facilities between semesters or during exams with a written request from parents submitted to the Warden.",
+        "Hostel grievances may be addressed to the Principal, Warden, or SWO through permitted channels."
+      ]
+    }
+  ],
+  "wardens": {
+    "Boys' Hostel": [
+      {
+        "name": "Shabarish Kumar B. V.",
+        "designation": "Warden"
+      },
+      {
+        "name": "Manoj Kumar",
+        "designation": "Warden"
+      }
+    ],
+    "Girls' Hostel": [
+      {
+        "name": "Meera P.",
+        "designation": "Warden"
+      },
+      {
+        "name": "Usha K.",
+        "designation": "Warden"
+      }
+    ]
+  },
+  "warden_note": "Names and hostel assignments were provided by the user. Phone numbers, email addresses, and individual roles beyond Warden have not been provided."
+}

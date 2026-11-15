@@ -1,0 +1,83 @@
+[
+  {
+    "questions": [
+      "what is campusmate",
+      "what can campusmate do",
+      "what is this chatbot"
+    ],
+    "answer": "CampusMate is a college information assistant. It can answer questions using the department, faculty and technical-staff information included in its knowledge base."
+  },
+  {
+    "questions": [
+      "which departments are included",
+      "list departments",
+      "how many departments are there"
+    ],
+    "answer": "The current CampusMate knowledge base contains 9 department sections: CSE, ECE, CSBS, AI & ML, AI & DS, CSD, Mechanical Engineering, ISE, and First Year Science and Humanities."
+  },
+  {
+    "questions": [
+      "who is the hod of cse",
+      "cse hod"
+    ],
+    "answer": "The CSE HOD is Dr. Rajgopal K T — Associate Professor & HOD."
+  },
+  {
+    "questions": [
+      "who is the hod of ece",
+      "ece hod"
+    ],
+    "answer": "The ECE HOD is Dr. Raghavendra M Shetty K — Associate Professor & HOD."
+  },
+  {
+    "questions": [
+      "who is the hod of csbs",
+      "csbs hod"
+    ],
+    "answer": "The CSBS HOD is Deepak D — Assistant Professor & HOD."
+  },
+  {
+    "questions": [
+      "who is the hod of aiml",
+      "ai ml hod",
+      "artificial intelligence and machine learning hod"
+    ],
+    "answer": "The AI & ML HOD is Dr. Basappa Kodada — Professor & HOD."
+  },
+  {
+    "questions": [
+      "who is the hod of aids",
+      "ai ds hod",
+      "artificial intelligence and data science hod"
+    ],
+    "answer": "The AI & DS HOD is Deepak D — Assistant Professor & HOD."
+  },
+  {
+    "questions": [
+      "who is the hod of csd",
+      "csd hod"
+    ],
+    "answer": "The CSD HOD is Dr. Siju V Soman — Associate Professor & HOD."
+  },
+  {
+    "questions": [
+      "who is the hod of mechanical engineering",
+      "mechanical hod"
+    ],
+    "answer": "The Mechanical Engineering HOD is Dr. Niranjan Rai — HOD & Associate Professor."
+  },
+  {
+    "questions": [
+      "who is the hod of ise",
+      "ise hod"
+    ],
+    "answer": "The ISE HOD is Dr. H. Manoj T. Gadiyar — Professor & HOD."
+  },
+  {
+    "questions": [
+      "who is the hod of first year",
+      "first year science and humanities hod"
+    ],
+    "answer": "The First Year Science and Humanities HOD is Dr. N. Satheesh Kumar — Professor & HOD."
+  }
+]

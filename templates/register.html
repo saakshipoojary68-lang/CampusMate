@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create Account | CampusMate</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="auth-page">
+  <main class="auth-layout">
+    <section class="auth-brand-panel">
+      <div class="college-brand"><div class="college-seal">CEC</div><div><strong>Canara Engineering College</strong><span>Mangaluru</span></div></div>
+      <div class="brand-copy"><p class="eyebrow">YOUR CAMPUS, ONE CHAT AWAY</p><h1>CampusMate</h1><p>Your AI College Assistant</p></div>
+      <img class="auth-robot" src="{{ url_for('static', filename='images/campusmate-robot.png') }}" alt="Friendly CampusMate robot mascot">
+      <p class="brand-caption">Your friendly guide to college life.</p>
+    </section>
+    <section class="auth-form-panel">
+      <form class="auth-card" method="POST" action="{{ url_for('register') }}">
+        <div class="mini-robot"><img src="{{ url_for('static', filename='images/campusmate-robot.png') }}" alt="CampusMate robot"></div>
+        <p class="eyebrow">WELCOME TO CAMPUSMATE</p><h2>Create an Account</h2><p class="auth-subtitle">Register to start chatting with your college assistant.</p>
+        {% with messages = get_flashed_messages(with_categories=true) %}{% for category, message in messages %}<div class="flash {{ category }}">{{ message }}</div>{% endfor %}{% endwith %}
+        <label>Full Name<input type="text" name="full_name" placeholder="Enter your full name" autocomplete="name" required></label>
+        <label>Email Address<input type="email" name="email" placeholder="Enter your email" autocomplete="email" required></label>
+        <label>Password<input type="password" name="password" placeholder="At least 8 characters" autocomplete="new-password" minlength="8" required></label>
+        <label>Confirm Password<input type="password" name="confirm_password" placeholder="Re-enter your password" autocomplete="new-password" required></label>
+        <button class="primary-button" type="submit">Create Account <span>→</span></button>
+        <p class="auth-switch">Already have an account? <a href="{{ url_for('login') }}">Login</a></p>
+      </form>
+    </section>
+  </main>
+</body>
+</html>

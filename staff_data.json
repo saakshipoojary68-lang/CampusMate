@@ -1,0 +1,814 @@
+{
+  "departments": {
+    "CSE": {
+      "full_name": "Computer Science and Engineering",
+      "hod": {
+        "name": "Dr. Rajgopal K T",
+        "designation": "Associate Professor & HOD"
+      },
+      "teaching_faculty": [
+        [
+          "Dr. Rajgopal K T",
+          "Associate Professor & HOD"
+        ],
+        [
+          "Dr. Demian Antony D'Mello",
+          "Professor & Principal"
+        ],
+        [
+          "Dr. Nagesh H R",
+          "Professor"
+        ],
+        [
+          "Dr. Udaya Kumar K Shenoy",
+          "Professor"
+        ],
+        [
+          "Dr. Karthik Pai B H",
+          "Professor"
+        ],
+        [
+          "Dr. Sunil Kumar B L",
+          "Professor"
+        ],
+        [
+          "Dr. Nagesh Shenoy H",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Gurudeva Shastri Hiremath",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Pavithra D S",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Vinay P",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Rakshith M D",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Babitha Ganesh Kulal",
+          "Associate Professor"
+        ],
+        [
+          "Aruna Kumari G K",
+          "Assistant Professor"
+        ],
+        [
+          "Kavya A M",
+          "Assistant Professor"
+        ],
+        [
+          "Adithya M",
+          "Assistant Professor"
+        ],
+        [
+          "Bhavana D",
+          "Assistant Professor"
+        ],
+        [
+          "Sanitha Suvarna",
+          "Assistant Professor"
+        ],
+        [
+          "Kishor Shivathaya",
+          "Assistant Professor"
+        ],
+        [
+          "Janardhana Bhat K",
+          "Assistant Professor"
+        ],
+        [
+          "Ajay S Shet",
+          "Assistant Professor"
+        ],
+        [
+          "Sushma",
+          "Assistant Professor"
+        ],
+        [
+          "Sowmya K",
+          "Assistant Professor"
+        ],
+        [
+          "Alok Ranjan",
+          "Assistant Professor"
+        ],
+        [
+          "Verdine Noronha",
+          "Assistant Professor"
+        ],
+        [
+          "Annapurna M",
+          "Assistant Professor"
+        ],
+        [
+          "Shatananda Bhat P",
+          "Assistant Professor"
+        ],
+        [
+          "Saritha M",
+          "Assistant Professor"
+        ],
+        [
+          "Ravikumar D Kodadal",
+          "Assistant Professor"
+        ]
+      ],
+      "technical_staff": []
+    },
+    "ECE": {
+      "full_name": "Electronics and Communication Engineering",
+      "hod": {
+        "name": "Dr. Raghavendra M Shetty K",
+        "designation": "Associate Professor & HOD"
+      },
+      "teaching_faculty": [
+        [
+          "Dr. Raghavendra M Shetty K",
+          "Associate Professor & HOD"
+        ],
+        [
+          "Dr. Ganesh V Bhat",
+          "Professor"
+        ],
+        [
+          "Dr. Dayananda G K",
+          "Professor"
+        ],
+        [
+          "Dr. Suchitra N Shenoy",
+          "Associate Professor"
+        ],
+        [
+          "Savitha Acharya",
+          "Assistant Professor"
+        ],
+        [
+          "Jayashree K",
+          "Assistant Professor"
+        ],
+        [
+          "Ashwini Holla V R",
+          "Assistant Professor"
+        ],
+        [
+          "Akshatha G Baliga",
+          "Assistant Professor"
+        ],
+        [
+          "Rajitha A A",
+          "Assistant Professor"
+        ],
+        [
+          "Vinay H S",
+          "Assistant Professor"
+        ],
+        [
+          "Varun S Karadesai",
+          "Assistant Professor"
+        ],
+        [
+          "Sreerama Samatha J G",
+          "Assistant Professor"
+        ],
+        [
+          "Jovita Lasrado",
+          "Assistant Professor"
+        ],
+        [
+          "Kavita Naveen Kulal",
+          "Assistant Professor"
+        ]
+      ],
+      "technical_staff": [
+        [
+          "Naveena K",
+          "Foreman"
+        ],
+        [
+          "Ganesh B Acharya",
+          "Sr. Lab Instructor"
+        ],
+        [
+          "Lavanya B",
+          "Lab Instructor"
+        ],
+        [
+          "Poornima",
+          "Lab Instructor"
+        ],
+        [
+          "Pavithra",
+          "Lab Instructor"
+        ],
+        [
+          "Lohith",
+          "Lab Instructor"
+        ]
+      ]
+    },
+    "CSBS": {
+      "full_name": "Computer Science and Business Systems",
+      "hod": {
+        "name": "Deepak D",
+        "designation": "Assistant Professor & HOD"
+      },
+      "teaching_faculty": [
+        [
+          "Deepak D",
+          "Assistant Professor & HOD"
+        ],
+        [
+          "Dr. Venkatesh Nagaraja",
+          "Professor"
+        ],
+        [
+          "Sathish S Nadig",
+          "Assistant Professor"
+        ],
+        [
+          "Ramesh E",
+          "Assistant Professor"
+        ],
+        [
+          "Pooja Kini",
+          "Assistant Professor"
+        ],
+        [
+          "Yojana K S",
+          "Assistant Professor"
+        ],
+        [
+          "Ashwini K G",
+          "Assistant Professor"
+        ],
+        [
+          "Pavithra H B",
+          "Assistant Professor"
+        ],
+        [
+          "Sunil Mangalore Kamath",
+          "Professor of Practice"
+        ],
+        [
+          "Yathish K",
+          "Assistant Professor"
+        ],
+        [
+          "Raksha D",
+          "Assistant Professor"
+        ]
+      ],
+      "technical_staff": [
+        [
+          "Sumithra",
+          "Lab Instructor"
+        ],
+        [
+          "Shubhashree V",
+          "Lab Instructor"
+        ],
+        [
+          "Nishmitha",
+          "Lab Instructor"
+        ],
+        [
+          "Thilakshi",
+          "Lab Instructor"
+        ],
+        [
+          "Pruthvi Kotian",
+          "Lab Instructor"
+        ]
+      ]
+    },
+    "AIML": {
+      "full_name": "Artificial Intelligence and Machine Learning",
+      "hod": {
+        "name": "Dr. Basappa Kodada",
+        "designation": "Professor & HOD"
+      },
+      "teaching_faculty": [
+        [
+          "Dr. Basappa Kodada",
+          "Professor & HOD"
+        ],
+        [
+          "Dr. Sujatha M",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Ganesh Pai",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Dhananjaya G. M",
+          "Associate Professor"
+        ],
+        [
+          "Siju V Soman",
+          "Assistant Professor"
+        ],
+        [
+          "Deepak D",
+          "Assistant Professor"
+        ],
+        [
+          "Nagaraj Gadagin",
+          "Assistant Professor"
+        ],
+        [
+          "Prathibha M",
+          "Assistant Professor"
+        ],
+        [
+          "Sandesh Kamath",
+          "Assistant Professor"
+        ],
+        [
+          "Nithin Kurup U G",
+          "Assistant Professor"
+        ]
+      ],
+      "technical_staff": [
+        [
+          "Praveen T. Damble",
+          "Foreman"
+        ],
+        [
+          "Sowmya D.",
+          "Lab Instructor"
+        ],
+        [
+          "Jayaprakash",
+          "Lab Instructor"
+        ],
+        [
+          "Geetha",
+          "Lab Instructor"
+        ],
+        [
+          "Navyashree",
+          "Programmer"
+        ],
+        [
+          "Swathi",
+          "Programmer"
+        ]
+      ]
+    },
+    "AIDS": {
+      "full_name": "Artificial Intelligence and Data Science",
+      "hod": {
+        "name": "Deepak D",
+        "designation": "Assistant Professor & HOD"
+      },
+      "teaching_faculty": [
+        [
+          "Deepak D",
+          "Assistant Professor & HOD"
+        ],
+        [
+          "Dr. Venkatesh Nagaraja",
+          "Professor"
+        ],
+        [
+          "Sathish S Nadig",
+          "Assistant Professor"
+        ],
+        [
+          "Ramesh E",
+          "Assistant Professor"
+        ],
+        [
+          "Pooja Kini",
+          "Assistant Professor"
+        ],
+        [
+          "Yojana K S",
+          "Assistant Professor"
+        ],
+        [
+          "Ashwini K G",
+          "Assistant Professor"
+        ],
+        [
+          "Pavithra H B",
+          "Assistant Professor"
+        ],
+        [
+          "Sunil Mangalore Kamath",
+          "Professor of Practice"
+        ],
+        [
+          "Yathish K",
+          "Assistant Professor"
+        ],
+        [
+          "Raksha D",
+          "Assistant Professor"
+        ]
+      ],
+      "technical_staff": [
+        [
+          "Sumithra",
+          "Lab Instructor"
+        ],
+        [
+          "Shubhashree V",
+          "Lab Instructor"
+        ],
+        [
+          "Nishmitha",
+          "Lab Instructor"
+        ],
+        [
+          "Thilakshi",
+          "Lab Instructor"
+        ],
+        [
+          "Pruthvi Kotian",
+          "Lab Instructor"
+        ]
+      ]
+    },
+    "CSD": {
+      "full_name": "Computer Science and Design",
+      "hod": {
+        "name": "Dr. Siju V Soman",
+        "designation": "Associate Professor & HOD"
+      },
+      "teaching_faculty": [
+        [
+          "Dr. Siju V Soman",
+          "Associate Professor & HOD"
+        ],
+        [
+          "Dr. Nischaykumar Hegde",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Anantha Krishna Kamath",
+          "Associate Professor"
+        ],
+        [
+          "Ravishankara Kulamarva",
+          "Assistant Professor"
+        ],
+        [
+          "M H Soorajprasad",
+          "Assistant Professor"
+        ],
+        [
+          "Chatura V Karadesai",
+          "Assistant Professor"
+        ],
+        [
+          "Archana S",
+          "Assistant Professor"
+        ],
+        [
+          "Krathika A",
+          "Assistant Professor"
+        ],
+        [
+          "Sourabha S Rai",
+          "Assistant Professor"
+        ]
+      ],
+      "technical_staff": [
+        [
+          "Janitha",
+          "Lab Instructor"
+        ],
+        [
+          "Sujanitha",
+          "Lab Instructor"
+        ],
+        [
+          "Niveditha",
+          "Lab Instructor"
+        ],
+        [
+          "Navyashree",
+          "Programmer"
+        ],
+        [
+          "Shamith Dharmapal Salian",
+          "Lab Instructor"
+        ]
+      ]
+    },
+    "ME": {
+      "full_name": "Mechanical Engineering",
+      "hod": {
+        "name": "Dr. Niranjan Rai",
+        "designation": "HOD & Associate Professor"
+      },
+      "teaching_faculty": [
+        [
+          "Dr. Niranjan Rai",
+          "HOD & Associate Professor"
+        ],
+        [
+          "Naveen A Kalal",
+          "Assistant Professor"
+        ],
+        [
+          "Sandeep S",
+          "Assistant Professor"
+        ],
+        [
+          "Shreenath Salian",
+          "Assistant Professor"
+        ],
+        [
+          "Gowrish Nagvekar B",
+          "Assistant Professor"
+        ],
+        [
+          "Karthik S R",
+          "Assistant Professor"
+        ]
+      ],
+      "technical_staff": [
+        [
+          "Ganesh Narayan Moger",
+          "Lab Instructor"
+        ],
+        [
+          "Nagesha",
+          "Lab Instructor"
+        ]
+      ]
+    },
+    "ISE": {
+      "full_name": "Information Science and Engineering",
+      "hod": {
+        "name": "Dr. H. Manoj T. Gadiyar",
+        "designation": "Professor & HOD"
+      },
+      "teaching_faculty": [
+        [
+          "Dr. H. Manoj T. Gadiyar",
+          "Professor & HOD"
+        ],
+        [
+          "Dr. Narayan Ram Naik",
+          "Associate Professor"
+        ],
+        [
+          "Dr. Abhishek S. Rao",
+          "Associate Professor"
+        ],
+        [
+          "Ramesh S. Nayak",
+          "Assistant Professor"
+        ],
+        [
+          "Vasanth Nayak",
+          "Assistant Professor"
+        ],
+        [
+          "Geetha Laxmi",
+          "Assistant Professor"
+        ],
+        [
+          "Sadhana B",
+          "Assistant Professor"
+        ],
+        [
+          "Ranganatha K",
+          "Assistant Professor"
+        ],
+        [
+          "Sushma M. D.",
+          "Assistant Professor"
+        ],
+        [
+          "Shilpa B",
+          "Assistant Professor"
+        ],
+        [
+          "Prashanth Kumar A",
+          "Assistant Professor"
+        ],
+        [
+          "Pradeep M",
+          "Assistant Professor"
+        ],
+        [
+          "Sandeep Kini M",
+          "Assistant Professor"
+        ]
+      ],
+      "technical_staff": [
+        [
+          "Prajwal Benet Tellis",
+          "Foreman"
+        ],
+        [
+          "Subrahmanya V",
+          "Lab Instructor"
+        ],
+        [
+          "Bhavya",
+          "Lab Instructor"
+        ],
+        [
+          "Swathi",
+          "Programmer"
+        ],
+        [
+          "Jayashree",
+          "Lab Instructor"
+        ],
+        [
+          "Goutham Kulal N",
+          "Lab Instructor"
+        ],
+        [
+          "Vedavathi Rashmitha",
+          "Lab Instructor"
+        ]
+      ]
+    },
+    "FIRST_YEAR": {
+      "full_name": "First Year Science and Humanities",
+      "hod": {
+        "name": "Dr. N. Satheesh Kumar",
+        "designation": "Professor & HOD"
+      },
+      "subject_groups": {
+        "Chemistry": [
+          [
+            "Dr. Priya V Frank",
+            "Professor"
+          ],
+          [
+            "Dr. Lavanya D Kateel",
+            "Associate Professor"
+          ],
+          [
+            "Dr. Chethan P D",
+            "Associate Professor"
+          ],
+          [
+            "Prashantha Somayaji K",
+            "Assistant Professor"
+          ],
+          [
+            "Mohith Prasanna K",
+            "Assistant Professor"
+          ],
+          [
+            "Shreya Bhakta K",
+            "Assistant Professor"
+          ]
+        ],
+        "Physics": [
+          [
+            "Vishweshwara Upadhyaya K",
+            "Assistant Professor"
+          ],
+          [
+            "Narayana Moorthy S",
+            "Assistant Professor"
+          ],
+          [
+            "Vidyalakshmi P B",
+            "Assistant Professor"
+          ],
+          [
+            "Rajashree",
+            "Assistant Professor"
+          ]
+        ],
+        "Mathematics": [
+          [
+            "Dr. Prameela Kolake",
+            "Associate Professor"
+          ],
+          [
+            "P Guruprasad Upadhya",
+            "Assistant Professor"
+          ],
+          [
+            "Sathish G Hegde",
+            "Assistant Professor"
+          ],
+          [
+            "Shyamala",
+            "Assistant Professor"
+          ],
+          [
+            "Raksha Salian",
+            "Assistant Professor"
+          ],
+          [
+            "Niveditha T V",
+            "Assistant Professor"
+          ],
+          [
+            "Ananya Pangal",
+            "Assistant Professor"
+          ],
+          [
+            "Rashmi G S",
+            "Assistant Professor"
+          ],
+          [
+            "Priyadarshini G Bhat",
+            "Assistant Professor"
+          ]
+        ],
+        "Engineering Science": [
+          [
+            "Dr. Aneesh V Bhat",
+            "Assistant Professor"
+          ],
+          [
+            "Dr. Niranjan Rai",
+            "Associate Professor"
+          ],
+          [
+            "Sandeep S",
+            "Assistant Professor"
+          ],
+          [
+            "Naveen A Kalal",
+            "Assistant Professor"
+          ],
+          [
+            "Shreenath Salian",
+            "Assistant Professor"
+          ],
+          [
+            "Sathish S Nadig",
+            "Assistant Professor"
+          ],
+          [
+            "Kavita Naveen Kulal",
+            "Assistant Professor"
+          ]
+        ],
+        "Humanities & Management": [
+          [
+            "Dr. Mona Jaqueline Mendonca",
+            "Assistant Professor"
+          ],
+          [
+            "Ganesh Kamath M",
+            "Assistant Professor"
+          ],
+          [
+            "Carol Jennifer Rodrigues",
+            "Assistant Professor"
+          ],
+          [
+            "Nanditha Chinivarda",
+            "Assistant Professor & Counsellor"
+          ]
+        ],
+        "Computing Science": [
+          [
+            "Pavithra Nayak",
+            "Assistant Professor"
+          ],
+          [
+            "Meghashree",
+            "Assistant Professor"
+          ],
+          [
+            "Prathiksha",
+            "Assistant Professor"
+          ],
+          [
+            "Jyothi",
+            "Assistant Professor"
+          ],
+          [
+            "Varshitha",
+            "Assistant Professor"
+          ]
+        ]
+      },
+      "technical_staff": [
+        [
+          "Dhanushree Kotian",
+          "Lab Instructor"
+        ],
+        [
+          "Vinoda V Baliga",
+          "Lab Supervisor"
+        ]
+      ]
+    }
+  }
+}

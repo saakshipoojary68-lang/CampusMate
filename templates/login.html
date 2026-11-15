@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login | CampusMate</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="auth-page">
+  <main class="auth-layout">
+    <section class="auth-brand-panel">
+      <div class="college-brand"><div class="college-seal">CEC</div><div><strong>Canara Engineering College</strong><span>Mangaluru</span></div></div>
+      <div class="brand-copy"><p class="eyebrow">YOUR CAMPUS, ONE CHAT AWAY</p><h1>CampusMate</h1><p>Your AI College Assistant</p></div>
+      <img class="auth-robot" src="{{ url_for('static', filename='images/campusmate-robot.png') }}" alt="Friendly CampusMate robot mascot">
+      <p class="brand-caption">Ask. Explore. Discover your campus.</p>
+    </section>
+    <section class="auth-form-panel">
+      <form class="auth-card login-card" method="POST" action="{{ url_for('login') }}">
+        <div class="mini-robot"><img src="{{ url_for('static', filename='images/campusmate-robot.png') }}" alt="CampusMate robot"></div>
+        <p class="eyebrow">NICE TO SEE YOU AGAIN</p><h2>Login to CampusMate</h2><p class="auth-subtitle">Sign in to continue your conversation.</p>
+        {% with messages = get_flashed_messages(with_categories=true) %}{% for category, message in messages %}<div class="flash {{ category }}">{{ message }}</div>{% endfor %}{% endwith %}
+        <label>Email Address<input type="email" name="email" placeholder="Enter your email" autocomplete="email" required></label>
+        <label>Password<input type="password" name="password" placeholder="Enter your password" autocomplete="current-password" required></label>
+        <button class="primary-button" type="submit">Login <span>→</span></button>
+        <p class="auth-switch">New to CampusMate? <a href="{{ url_for('register') }}">Create an account</a></p>
+      </form>
+    </section>
+  </main>
+</body>
+</html>
