@@ -1,0 +1,55 @@
+{
+  "program": "B.E. / B.Tech",
+  "academic_qualification": "Pass in 2nd PUC / 10+2 / Higher Secondary or equivalent examination.",
+  "compulsory_subjects": "Physics and Mathematics, along with Chemistry, Biotechnology, Computer Science, Biology or Electronics as an optional subject. The supplied admission information states that Chemistry can be replaced by one of the listed alternatives.",
+  "minimum_marks": {
+    "general": "Minimum 45% aggregate in the core/optional subjects.",
+    "reserved": "Minimum 40% aggregate for SC, ST, Category-1 and OBC candidates; the stated relaxation applies to Karnataka candidates belonging to these categories."
+  },
+  "accepted_entrance_exams": [
+    {
+      "name": "KCET",
+      "details": "Karnataka Common Entrance Test; CET Code: E123"
+    },
+    {
+      "name": "COMEDK UGET",
+      "details": "Valid score/rank required"
+    },
+    {
+      "name": "JEE Main",
+      "details": "Valid score/rank required"
+    },
+    {
+      "name": "KRLMPCA UGCET",
+      "details": "Valid score/rank required"
+    }
+  ],
+  "admission_routes": [
+    {
+      "quota": "Government Quota",
+      "seat_share": "60% of intake (as supplied)",
+      "process": "Filled through KCET counselling conducted by KEA. Candidates participate in KEA option entry, complete document verification at a designated Helpline Centre and proceed through seat allotment."
+    },
+    {
+      "quota": "COMEDK Quota",
+      "process": "Filled through online counselling managed by COMEDK UGET."
+    },
+    {
+      "quota": "Management Quota",
+      "process": "Handled directly by the college admissions office. The supplied information states that PCM aggregate eligibility rules still apply."
+    }
+  ],
+  "required_documents": [
+    "SSLC / Class 10 marks card and passing certificate",
+    "Class 12 / 2nd PUC marks card",
+    "KCET / COMEDK / JEE / KRLMPCA rank card and admission order, as applicable",
+    "Transfer Certificate (TC) and Conduct Certificate",
+    "Study Certificate (for 7 years including SSLC/12th)",
+    "Caste / Income certificate (if claiming SC, ST, Category-1 or OBC reservation/relaxation)",
+    "Aadhaar card or government-issued photo ID",
+    "Medical and blood group certificates"
+  ],
+  "official_admission_url": "https://cec.edu.in/admission",
+  "official_college_url": "https://www.cec.edu.in/",
+  "source_note": "Information supplied by the user from the college admission page and other cited sources. Entrance rules, seat shares, minimum marks, document requirements and procedures may change by admission year. Confirm the current prospectus and instructions with the college and relevant counselling authority before applying."
+}

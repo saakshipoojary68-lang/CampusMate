@@ -1,0 +1,49 @@
+{
+  "main_annual_event": {
+    "name": "Aakriti 2026",
+    "description": "National-level Techno-Cultural Fest",
+    "dates": "March 12–13, 2026",
+    "phases": "Ignition / Expansion",
+    "website": "https://aakriti.canaraengineering.in/",
+    "source_links": [
+      "https://aakriti.canaraengineering.in/",
+      "https://www.instagram.com/reel/De3cbBkS7Oz/",
+      "https://www.instagram.com/events.cec/"
+    ]
+  },
+  "events": [
+    {
+      "name": "SDG Innovation League / Hackathon",
+      "date": "November 6, 2026",
+      "category": "Innovation / Hackathon"
+    },
+    {
+      "name": "MCA Induction Programme (2026–27)",
+      "date": "November 4, 2026",
+      "category": "Induction Programme"
+    },
+    {
+      "name": "Innovation Showcase 2026 (Major Project Exhibition)",
+      "date": "October 31, 2026",
+      "category": "Project Exhibition"
+    },
+    {
+      "name": "TECHNOVATION 2026 (ECE Project Exhibition)",
+      "date": "October 31, 2026",
+      "category": "Project Exhibition"
+    },
+    {
+      "name": "IoT InnovateX 2026 (CSE Mini Project Expo)",
+      "date": "October 23, 2026",
+      "category": "Mini Project Exhibition"
+    },
+    {
+      "name": "Freshers' Day / DesiVerse",
+      "date": "October 15, 2026",
+      "category": "Cultural Event"
+    }
+  ],
+  "events_instagram": "https://www.instagram.com/events.cec/",
+  "college_website": "https://cec.edu.in/",
+  "source_note": "Event names and dates were supplied by the user from the college events information and linked sources. The listed October–November 2026 dates and March 2026 Aakriti dates are all in the past as of November 15, 2026. Check the CEC Events Instagram page and official college website for current and upcoming announcements. The main fest spelling is recorded as 'Aakriti' as written in the supplied event list; an earlier message used 'Akrithi'."
+}

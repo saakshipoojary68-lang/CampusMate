@@ -1,0 +1,35 @@
+{
+  "canteens": [
+    {
+      "name": "CEC Canteen",
+      "aliases": ["cec canteen", "cec cafeteria", "main canteen"],
+      "days_open": "Monday through Sunday",
+      "opening_time": "7:30 AM",
+      "closing_time": "8:45 PM",
+      "offerings": ["Breakfast", "Lunch", "Quick bites", "Tea", "Coffee"],
+      "approximate_price_range": "₹1–₹200 per person",
+      "source_note": "Timings, offerings and approximate price range were supplied by the user. Confirm with the canteen because hours and prices may change."
+    },
+    {
+      "name": "Can Cafe",
+      "aliases": ["can cafe", "cafe"],
+      "days_open": "Monday through Sunday",
+      "opening_time": "7:30 AM",
+      "closing_time": "8:45 PM",
+      "offerings": ["Breakfast", "Lunch", "Quick bites", "Tea", "Coffee"],
+      "approximate_price_range": "₹1–₹200 per person",
+      "source_note": "Timings, offerings and approximate price range were supplied by the user. Confirm with the canteen because hours and prices may change."
+    },
+    {
+      "name": "Can Express",
+      "aliases": ["can express", "express canteen"],
+      "days_open": "Monday through Sunday",
+      "opening_time": "7:30 AM",
+      "closing_time": "4:30 PM",
+      "offerings": ["Quick bites", "Tea", "Coffee"],
+      "approximate_price_range": "₹10–₹50 per person",
+      "source_note": "Timings, offerings and approximate price range were supplied by the user."
+    }
+  ],
+  "note": "Details for all three canteens were supplied by the user. Confirm timings and prices with the respective canteens because they may change."
+}

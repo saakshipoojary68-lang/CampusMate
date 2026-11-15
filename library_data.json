@@ -1,0 +1,91 @@
+{
+  "name": "Central Library",
+  "users": [
+    "Faculty",
+    "Research Scholars",
+    "Students"
+  ],
+  "sections": [
+    {
+      "name": "Reference Section",
+      "facilities": {
+        "books": 6923,
+        "bound_volumes": 504,
+        "national_journals": 42,
+        "magazines": 16,
+        "newspapers": 4,
+        "other_resources": [
+          "Question Papers",
+          "Competitive Exam Books",
+          "Novels",
+          "Project Reports",
+          "CD-ROMs",
+          "Standards"
+        ],
+        "seating_capacity": 156
+      },
+      "working_hours": "9:00 AM–8:00 PM (Monday–Friday); 9:00 AM–4:30 PM (except 1st and 3rd Saturdays); 9:00 AM–1:00 PM (1st and 3rd Saturdays and Sundays). During examinations: 8:30 AM–8:00 PM on all working days."
+    },
+    {
+      "name": "Circulation Section",
+      "facilities": {
+        "books": 18202,
+        "book_stacking": true,
+        "pcs": 6
+      },
+      "working_hours": "8:30 AM–4:30 PM"
+    },
+    {
+      "name": "Digital Library",
+      "facilities": {
+        "pcs": 24,
+        "extended_lan_docking_facility": 28,
+        "seating_capacity": 52,
+        "resources": [
+          "E-Journals",
+          "E-Books Access"
+        ]
+      },
+      "working_hours": "Not separately specified in the supplied flow chart."
+    },
+    {
+      "name": "SC/ST Book Bank",
+      "facilities": {
+        "books": 1374
+      },
+      "working_hours": "8:30 AM–4:30 PM"
+    },
+    {
+      "name": "General Book Bank",
+      "facilities": {
+        "books": 21344
+      },
+      "working_hours": "8:30 AM–4:30 PM"
+    },
+    {
+      "name": "Reading Section",
+      "facilities": {},
+      "working_hours": "8:30 AM–4:30 PM"
+    }
+  ],
+  "source_note": "Based on the college Library Flow Chart supplied by the user: https://apiserver.cec.edu.in/files/libraryFlowChart. The chart does not specify book issue limits, loan periods, fines, librarian/staff contacts, or a separate Digital Library working schedule. Confirm current timings and policies with the library.",
+  "staff": [
+    {
+      "name": "Bhavani K",
+      "designation": "Assistant Librarian"
+    },
+    {
+      "name": "Santhosh",
+      "designation": "Library Asst"
+    },
+    {
+      "name": "Lokesh",
+      "designation": "Jr.Office Asst"
+    },
+    {
+      "name": "Chaithra",
+      "designation": "Jr.Office Asst"
+    }
+  ],
+  "staff_source_note": "Library staff names and designations supplied by the user. No contact numbers were provided."
+}

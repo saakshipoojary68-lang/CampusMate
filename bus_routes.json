@@ -1,0 +1,19 @@
+{
+  "source": "Bus route information supplied by the user",
+  "note": "Route details are recorded as supplied. Route 13 was not included in the information received. Route 14's stop list ends at 'Pachhinadka-' in the supplied data and may be incomplete. Confirm current timings and route details with the transport coordinator.",
+  "routes": [
+    {"route_no": 1, "departure_time": "7.50 a.m.", "stops": "Talapady - Beeri – Kotekar - Kolya – College", "coordinator": "Mr. Navaneet Bhaktha", "contact_no": "8111939377", "bus_no": "1"},
+    {"route_no": 2, "departure_time": "7.30 a.m.", "stops": "Puttur (Darbe Circle) – Bus Stand – Bolwar – Nagara – Kabaka – Mani – Kalladka – College", "coordinator": "Mr. Subramanya", "contact_no": "8861494057", "bus_no": "2"},
+    {"route_no": 3, "departure_time": "7.45 a.m.", "stops": "Kavoor – Bondel – Padavinangadi – Mary Hill – Yeyyadi – KPT – Nanthoor Junction - Bikkarnakatte – College", "coordinator": "Mr. Suresh S", "contact_no": "9845512424", "bus_no": "3"},
+    {"route_no": 4, "departure_time": "7.45 a.m.", "stops": "NITK – Thadambail – Marigudi(Surathkal) – Suraj Hotel – Govindadas College – Hosabettu – Honnakatte – Kulai – Panambur – Kuloor – Kodical Cross – Chowki Canara Bank - College", "coordinator": "Mr. Rajesh Rao", "contact_no": "9483924838", "bus_no": "4"},
+    {"route_no": 5, "departure_time": "7.50 a.m.", "stops": "RTO – Pandeshwar – Mangala Devi – Marnamikatte – Nandigudde- Velencia – Kankanady– Red building – Naguri- Padil- College", "coordinator": "Mrs. Bhavani", "contact_no": "9916071734", "bus_no": "5"},
+    {"route_no": 6, "departure_time": "7.50 a.m.", "stops": "Ashok Nagar – Daivajna Hall – Marigudi – Urwa Market – Mannagudda – Durga Mahal –Adyarkatte - College", "coordinator": "Mr. Ajay Shet", "contact_no": "9480174650", "bus_no": "6"},
+    {"route_no": 7, "departure_time": "7.45 a.m.", "stops": "Kolya- Kumpala – Ullala – Thokkottu – Kallapu – Jeppinamogaru – Yekkuru – Gorigudda – Ujjodi – Pumpwell – College", "coordinator": "Ms. Pavithra Nayak", "contact_no": "6363728492", "bus_no": "7"},
+    {"route_no": 8, "departure_time": "7.35 a.m.", "stops": "Pandit House - Kuttar - Yenepoya - Deralakatte - Kanachur - Assaigoli - Konaje - Mudipu - Sajipa - Melkar - Panemangalur - BC Road – Kaikamba (BC Road) –Modankap – Pachinadka - College", "coordinator": "Mr. Shubhashree", "contact_no": "9008379109", "bus_no": "8"},
+    {"route_no": 9, "departure_time": "7.45 a.m.", "stops": "Malemar – Derebail Konchady – Konchadi katte(Land links) – Derebail church – Kuntikan – Kottara Cross – Bejai Kapikad – Baliga Store – KSRTC Bus stand - Bejai Circle – Museum – Padavu School – Alape - Padil Junction – Adyar – Adyar P O - Nethrakere – College", "coordinator": "Mrs.Ashwini J", "contact_no": "9480532203", "bus_no": "09"},
+    {"route_no": 10, "departure_time": "7.50 a.m.", "stops": "Kottara Chowki – Kottara(Infosys) – Urwa Store – Chilimbi – Lady Hill – Lalbagh – Ballalbagh - Empiremall - Besant School – PVS - Bunts Hostel – CV Nayak hall – City Hospital – Kadri Mallikatte – Shivabagh – Nanthoor –Kodakkal - Farangipet - College", "coordinator": "Mrs. Pallavi M", "contact_no": "9845555573", "bus_no": "10"},
+    {"route_no": 11, "departure_time": "7.45 a.m.", "stops": "Moodabidri – Yedapadavu – Ganjimata – Kaikamba – Polali Dwara – Polali -Kalpane – college", "coordinator": "Mr. Gajanan Prabhu", "contact_no": "9886286993", "bus_no": "11"},
+    {"route_no": 12, "departure_time": "7.50 a.m.", "stops": "Mannagudda Durgamahal - Kudroli dwara - New Chithra – Carstreet -Venkataramana Temple - Temple Square – Hampanakatta - Jyothi – Pumpwell – Padil – College", "coordinator": "Mrs. Vinoda Baliga", "contact_no": "9980248567", "bus_no": "12"},
+    {"route_no": 14, "departure_time": "7.30 a.m.", "stops": "Uppinangady-Perne-Madala-Mani-Kalladka-B.C.Road-Modankap-Pachhinadka-", "coordinator": "Mrs. Bhavya", "contact_no": "94818 45863", "bus_no": "14"}
+  ]
+}
