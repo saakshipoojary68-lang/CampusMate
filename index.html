@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CampusMate – Your AI College Assistant</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="chat-page">
+  <main class="dashboard">
+    <header class="dashboard-topbar">
+      <a class="brand-lockup" href="{{ url_for('home') }}"><div class="brand-mark">C</div><div><h1>CampusMate</h1><p>Your AI College Assistant</p></div></a>
+      <div class="topbar-right"><span class="online-label"><i></i> Online</span><span class="student-name">{{ full_name }}</span><form method="POST" action="{{ url_for('logout') }}"><button class="logout-button" type="submit">Logout</button></form></div>
+    </header>
+    <div class="dashboard-body">
+      <aside class="sidebar">
+        <div class="sidebar-title">EXPLORE CAMPUS</div>
+        <a class="side-link active" href="#chat">▣ <span>Chat with CampusMate</span></a>
+        <a class="side-link" href="#chat" data-question="Show all departments">♧ <span>Departments</span></a>
+        <a class="side-link" href="#chat" data-question="Show hostel facilities and rules">▤ <span>Hostel</span></a>
+        <a class="side-link" href="#chat" data-question="Show all bus routes">▣ <span>Transportation</span></a>
+        <a class="side-link" href="#chat" data-question="Show all canteens">♨ <span>Canteens</span></a>
+        <a class="side-link" href="#chat" data-question="Show library facilities">▣ <span>Library</span></a>
+        <a class="side-link" href="#chat" data-question="Show academic calendar">▦ <span>Academic Calendar</span></a>
+        <a class="side-link" href="#chat" data-question="Show college events">✧ <span>Events</span></a>
+        <a class="side-link" href="#chat" data-question="Show government holidays 2026">▦ <span>Holidays</span></a>
+        <a class="side-link" href="#chat" data-question="Show fee structure and scholarships">◇ <span>Fees & Scholarships</span></a>
+        <a class="side-link" href="#chat" data-question="Show B.E. admission eligibility">♧ <span>Admissions</span></a>
+        <div class="sidebar-mascot"><img src="{{ url_for('static', filename='images/campusmate-robot.png') }}" alt="CampusMate robot mascot"><span>I'm here to help!</span></div>
+      </aside>
+      <section class="chat-content" id="chat">
+        <div class="chat-title"><div><span class="chat-avatar">🤖</span><div><strong>Chat with CampusMate</strong><small>Your friendly college assistant</small></div></div><span class="chat-status">Ready to help</span></div>
+        <div id="chat-window" class="chat-window" aria-live="polite">
+          <div class="message bot"><img class="message-avatar" src="{{ url_for('static', filename='images/campusmate-robot.png') }}" alt=""><div class="bubble">Hi {{ full_name.split(' ')[0] }}! 👋 Welcome to CampusMate! 🎓<br>I'm your AI College Assistant at Canara Engineering College. How are you today?</div></div>
+        </div>
+        <div class="suggestion-heading">You can ask me about <span>👇</span></div>
+        <div class="suggestions">
+          <button data-question="Who is the HOD of CSE?">Who is the HOD of CSE?</button>
+          <button data-question="Show all bus routes">Show all bus routes</button>
+          <button data-question="What are the hostel rules?">What are the hostel rules?</button>
+          <button data-question="What are the college timings?">College timings</button>
+          <button data-question="Show admission eligibility">Admission eligibility</button>
+          <button data-question="What is the library timing?">Library timings</button>
+        </div>
+        <div class="composer-wrap">
+          <img class="composer-robot" src="{{ url_for('static', filename='images/campusmate-robot.png') }}" alt="CampusMate robot sitting with a laptop">
+          <form id="chat-form" class="composer"><input id="user-input" type="text" placeholder="Type your question here..." autocomplete="off" required><button type="submit" aria-label="Send message">➤</button></form>
+        </div>
+        <p class="disclaimer">CampusMate uses its included college information. It will not guess details that have not been provided.</p>
+      </section>
+    </div>
+  </main>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
